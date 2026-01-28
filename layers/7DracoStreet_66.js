@@ -1,0 +1,1 @@
+var json_7DracoStreet_66 = {"type":"FeatureCollection","name":"7DracoStreet_66","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"LineString","coordinates":[[-0.099158598729886,51.484629326233446],[-0.0985915,51.4840947],[-0.097570529381736,51.483033753035173]]}}]}

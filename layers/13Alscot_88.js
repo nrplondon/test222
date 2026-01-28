@@ -1,0 +1,1 @@
+var json_13Alscot_88 = {"type":"FeatureCollection","name":"13Alscot_88","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"LineString","coordinates":[[-0.0744887,51.4937054],[-0.0767038,51.4921381]]}}]}

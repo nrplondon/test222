@@ -1,0 +1,1 @@
+var json_10AmeliaStreet_59 = {"type":"FeatureCollection","name":"10AmeliaStreet_59","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"LineString","coordinates":[[-0.100955525831578,51.488968609320764],[-0.0990816,51.489498],[-0.0983006,51.4897092],[-0.0968474,51.4900972]]}}]}
